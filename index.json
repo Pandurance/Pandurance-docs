@@ -1,27 +1,27 @@
 {
     "encryption_key": "n:2p>jPt",
     "DCS": {
-        "name": "Document Specifications"
+        "name": "Document Specifications",
         "last_version": 1,
         "author": "andy",
-        "published_on": "1 Aug 2024",
+        "published_on": "1 Aug 2024"
     },
     "BLG": {
-        "name": "Brand Logo Guidelines"
+        "name": "Brand Logo Guidelines",
         "last_version": 1,
         "author": "andy",
-        "published_on": "1 Aug 2024",
+        "published_on": "1 Aug 2024"
     },
     "ENT": {
-        "name": "Enterprise Portfolio"
+        "name": "Enterprise Portfolio",
         "last_version": 1,
         "author": "marcus",
-        "published_on": "15 Aug 2024",
+        "published_on": "15 Aug 2024"
     },
     "ENP": {
-        "name": "Design & Engineering Portfolio"
+        "name": "Design & Engineering Portfolio",
         "last_version": 1,
         "author": "marcus",
-        "published_on": "15 Aug 2024",
+        "published_on": "15 Aug 2024"
     }
 }

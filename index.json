@@ -2,9 +2,9 @@
     "encryption_key": 4133474416591794,
     "DCS": {
         "name": "Document Specifications",
-        "last_version": 1,
+        "last_version": 2,
         "author": "andy",
-        "published_on": ["1 Aug 2024"]
+        "published_on": ["1 Aug 2024", "1 Oct 2024"]
     },
     "BLG": {
         "name": "Brand Logo Guidelines",

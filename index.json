@@ -23,5 +23,11 @@
         "last_version": 1,
         "author": "marcus",
         "published_on": ["15 Aug 2024"]
+    },
+    "WST": {
+        "name": "Website Structure",
+        "last_version": 1,
+        "author": "andy",
+        "published_on": ["4 Oct 2024"]
     }
 }

@@ -35,5 +35,11 @@
         "last_version": 5,
         "author": "andy",
         "published_on": ["4 Oct 2024", "5 Oct 2024", "5 Oct 2024", "5 Oct 2024", "5 Oct 2024"]
+    },
+    "WHD": {
+        "name": "Wheel Technical Drawing",
+        "last_version": 1,
+        "author": "andy",
+        "published_on": ["5 Oct 2024"]
     }
 }

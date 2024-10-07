@@ -41,5 +41,11 @@
         "last_version": 1,
         "author": "andy",
         "published_on": ["5 Oct 2024"]
+    },
+    "WHA": {
+        "name": "Wheel Research & Analysis",
+        "last_version": 2,
+        "author": "andy",
+        "published_on": ["7 Oct 2024"]
     }
 }

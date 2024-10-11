@@ -47,5 +47,11 @@
         "last_version": 1,
         "author": "andy",
         "published_on": ["7 Oct 2024"]
+    },
+    "SPP": {
+        "name": "Sponsorship Proposal",
+        "last_version": 1,
+        "author": "zack",
+        "published_on": ["11 Oct 2024"]
     }
 }

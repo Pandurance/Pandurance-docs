@@ -50,8 +50,38 @@
     },
     "SPP": {
         "name": "Sponsorship Proposal",
+        "last_version": 2,
+        "author": "zack",
+        "published_on": ["26 Sep 2024", "11 Oct 2024"]
+    },
+    "CBS": {
+        "name": "Car body sketch",
+        "last_version": 1,
+        "author": "magnus",
+        "published_on": ["18 Sep 2024"]
+    },
+    "FRW": {
+        "name": "Front & Rear Wing sketch",
+        "last_version": 1,
+        "author": "magnus",
+        "published_on": ["18 Sep 2024"]
+    },
+    "PDS": {
+        "name": "Pit display draft",
         "last_version": 1,
         "author": "zack",
-        "published_on": ["11 Oct 2024"]
+        "published_on": ["14 Aug 2024", "18 Sep 2024"]
+    },
+    "RMD": {
+        "name": "Risk Management Draft",
+        "last_version": 1,
+        "author": "zack",
+        "published_on": ["14 Aug 2024", "18 Sep 2024"]
+    },
+    "WBS": {
+        "name": "Work Breakdown Structure",
+        "last_version": 1,
+        "author": "marcus",
+        "published_on": ["18 Sep 2024"]
     }
 }

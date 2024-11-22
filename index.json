@@ -32,9 +32,19 @@
     },
     "WHR": {
         "name": "Wheel Research (FEA)",
-        "last_version": 5,
+        "last_version": 12,
         "author": "andy",
-        "published_on": ["4 Oct 2024", "5 Oct 2024", "5 Oct 2024", "5 Oct 2024", "5 Oct 2024"]
+        "published_on": ["4 Oct 2024",
+            "5 Oct 2024",
+            "5 Oct 2024",
+            "5 Oct 2024",
+            "5 Oct 2024",
+            "22 Nov 2024",
+            "22 Nov 2024",
+            "22 Nov 2024",
+            "22 Nov 2024",
+            "22 Nov 2024",
+            "22 Nov 2024"]
     },
     "WHD": {
         "name": "Wheel Technical Drawing",
@@ -44,9 +54,9 @@
     },
     "WHA": {
         "name": "Wheel Research & Analysis",
-        "last_version": 1,
+        "last_version": 2,
         "author": "andy",
-        "published_on": ["7 Oct 2024"]
+        "published_on": ["7 Oct 2024", "22 Nov 2024"]
     },
     "SPP": {
         "name": "Sponsorship Proposal",

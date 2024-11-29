@@ -14,15 +14,21 @@
     },
     "ENT": {
         "name": "Enterprise Portfolio",
-        "last_version": 1,
+        "last_version": 2,
         "author": "marcus",
-        "published_on": ["15 Aug 2024"]
+        "published_on": ["15 Aug 2024", "29 Nov 2024"]
     },
     "ENP": {
         "name": "Design & Engineering Portfolio",
+        "last_version": 2,
+        "author": "marcus",
+        "published_on": ["15 Aug 2024", "29 Nov 2024"]
+    },
+    "PSS": {
+        "name": "Project Scope Statement & Project Charter",
         "last_version": 1,
         "author": "marcus",
-        "published_on": ["15 Aug 2024"]
+        "published_on": ["27 Nov 2024"]
     },
     "WST": {
         "name": "Website Structure",
@@ -90,8 +96,8 @@
     },
     "WBS": {
         "name": "Work Breakdown Structure",
-        "last_version": 1,
+        "last_version": 2,
         "author": "marcus",
-        "published_on": ["18 Sep 2024"]
+        "published_on": ["18 Sep 2024", "20 Nov 2024"]
     }
 }

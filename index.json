@@ -84,13 +84,13 @@
     },
     "PDS": {
         "name": "Pit display draft",
-        "last_version": 1,
+        "last_version": 2,
         "author": "zack",
         "published_on": ["14 Aug 2024", "18 Sep 2024"]
     },
     "RMD": {
         "name": "Risk Management Draft",
-        "last_version": 1,
+        "last_version": 2,
         "author": "zack",
         "published_on": ["14 Aug 2024", "18 Sep 2024"]
     },

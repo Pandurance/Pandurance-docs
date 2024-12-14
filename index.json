@@ -6,6 +6,12 @@
         "author": "andy",
         "published_on": ["1 Aug 2024", "1 Oct 2024"]
     },
+    "BGT": {
+        "name": "Budget",
+        "last_version": 1,
+        "author": "jack",
+        "published_on": ["30 Nov 2024"]
+    },
     "BLG": {
         "name": "Brand Logo Guidelines",
         "last_version": 1,
@@ -99,5 +105,11 @@
         "last_version": 2,
         "author": "marcus",
         "published_on": ["18 Sep 2024", "20 Nov 2024"]
+    },
+    "VBP": {
+        "name": "Verbal Presentation Slides",
+        "last_version": 1,
+        "author": "marcus",
+        "published_on": ["10 Dec 2024"]
     }
 }

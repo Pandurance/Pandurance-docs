@@ -111,5 +111,11 @@
         "last_version": 1,
         "author": "marcus",
         "published_on": ["10 Dec 2024"]
+    },
+    "VBP_DOCS": {
+        "name": "Verbal Presentation Documents",
+        "last_version": 1,
+        "author": "marcus",
+        "published_on": ["10 Dec 2024"]
     }
 }
